@@ -9,7 +9,7 @@ public class YONSON_ACTIVITY_I {
       int pro = a * b;
 
       System.out.println("Sum: " + sum);
-      System.out.println("Difference: " + diff);
+      System.out.println("Difference: " + diff);jkhwtgwNKLSHGANKJ
       System.out.println("Quotient: " + quo);
       System.out.println("Product: " + pro);
 }
