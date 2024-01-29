@@ -1,4 +1,4 @@
-public class GUTIB_ACTYIVITY_1{
+public class GUTIB_ACTIVITY_1{
           public static void main(String[]args){
  
 
