@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ALLEGO_ACIVITY_II {
+public class LARVIO_ACIVITY_II {
     
 public static void main (String [] args){
   Scanner sc = new Scanner (System.in);
