@@ -4,7 +4,8 @@ public static void main(String[]args){
 
     System.out.println("sum is "=  a);
     System.out.println("diff is "+ b);
-    System.out.println("product");
+    System.out.println("product "* c);
+   
 
     
 }
