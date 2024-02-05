@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CAMPOS_ACIVITY_II {
+public class CAMPOS_ACTIVITY_II {
     
 public static void main (String [] args){
   Scanner sc = new Scanner (System.in);
