@@ -6,7 +6,7 @@ public class PAUSTOR_ACTIVITY_III{
          Double temps = temp.nextDouble();
          if(temp>=100){
             System.out.println(s:"Bolling");
-         }else
+         else{
          System.out.println(s:"Not bolling");
          
 
