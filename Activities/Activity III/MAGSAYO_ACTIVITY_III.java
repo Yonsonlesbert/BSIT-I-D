@@ -5,7 +5,7 @@ public class MAGSAYO_ACTIVITY_III {
         Scanner input = new Scanner (System.in);
         System.out.print("Enter the temperature (in celcius): ");
         temp = input.nextInt();
-         if (temp >= 105){
+         if (temp >= 100){
             System.out.println("Boiling");
          }else 
          System.out.println("Not boiling");
