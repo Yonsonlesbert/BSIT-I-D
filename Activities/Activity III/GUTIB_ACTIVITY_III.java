@@ -7,7 +7,7 @@ public class GUTIB_ACTIVITY_III {
         int temp;
         System.out.print("Enter your emperatur: ");
         temp = input.nextInt();
-        if (temp >= 105) {
+        if (temp >= 100) {
             System.out.println("Boioling");
 
         } else {
