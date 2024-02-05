@@ -5,7 +5,7 @@ public class MAURIN_ACTIVITY_III{
         Scanner sc = new Scanner(System.in);
     int temp;
 
-    System.out.print("Enter Celcius: " );
+    System.out.print("Enter Celsius: " );
     temp = sc.nextInt();
 
     if(temp>=100){
