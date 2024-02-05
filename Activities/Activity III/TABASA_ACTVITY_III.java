@@ -6,7 +6,7 @@ public class TABASA_ACTVITY_III {
           
             System.out.print("Enter the temperature:");
             temp = input.nextInt();
-            if(temp >= 105){
+            if(temp >= 100){
                 System.out.println("Boiling");
             }
             else {
