@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class YONSON_ACTIVITY_V.java{
+public class YONSON_ACTIVITY_V{
 
     public static void main(String[]args){
 
